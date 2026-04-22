@@ -63,22 +63,22 @@ Comflix follows a layered architecture:
 ## 📸 Screenshots
 
 ### Welcome Screen
-![Welcome Screen](screenshots/welcome-screen.png)
+![Welcome Screen](arham-comflix/screenshots/welcome-screen.png)
 
 ### Main Dashboard
-![Main Dashboard](screenshots/main-dashboard.png)
+![Main Dashboard](arham-comflix/screenshots/main-dashboard.png)
 
 ### Filters Panel
-![Filters Panel](screenshots/filters-panel.png)
+![Filters Panel](arham-comflix/screenshots/filters-panel.png)
 
 ### Algorithm Selection
-![Algorithm Selection](screenshots/algorithm-selection.png)
+![Algorithm Selection](arham-comflix/screenshots/algorithm-selection.png)
 
 ### Results Grid
-![Results](screenshots/results-grid.png)
+![Results](arham-comflix/screenshots/results-grid.png)
 
 ### Movie Details Popup
-![Details](screenshots/movie-details-popup.png)
+![Details](arham-comflix/screenshots/movie-details-popup.png)
 
 ---
 
