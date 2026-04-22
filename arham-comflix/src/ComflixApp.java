@@ -2,14 +2,6 @@ import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 import java.util.ArrayList;
 
-/**
- * Clear application entry point for Comflix.
- *
- * Responsibilities:
- * 1. Apply the system look-and-feel.
- * 2. Load the serialized movie dataset.
- * 3. Launch the Swing UI on the Event Dispatch Thread.
- */
 public class ComflixApp {
 
     /** Default data file used by the application. */
