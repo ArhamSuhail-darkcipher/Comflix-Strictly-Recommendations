@@ -46,7 +46,7 @@ Comflix follows a layered architecture:
 
 📄 Full detailed report (architecture, UML, algorithms, design):
 
-👉 [View Project Report](docs/Comflix_Report.pdf)
+👉 [View Project Report](arham-comflix-docs/Comflix_Report.pdf)
 
 ---
 
